@@ -5,7 +5,6 @@
 
 ![Deki Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dekiakbar&show_icons=true&&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=dfdfdf&bg_color=050505)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekiakbar&layout=compact&title_color=fff&icon_color=79ff97&text_color=dfdfdf&bg_color=050505)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dekiakbar&row=2&column=3" alt="dekiakbar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
